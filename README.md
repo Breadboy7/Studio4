@@ -4,7 +4,11 @@ A simple third person character controller in Unity
 
 ## Demo
 
-https://github.com/user-attachments/assets/91485280-b86b-4c82-ac11-2a5107730e94
+
+
+https://github.com/user-attachments/assets/71859b91-8cd3-4fa0-8330-ed3aa2a0c71c
+
+
 
 ## Cloning & Setting Up the Project
 
