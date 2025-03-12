@@ -14,7 +14,7 @@ public class InputManager : MonoBehaviour
             OnSettingsMenu?.Invoke();
         }
 
-        if (GameManager.Instance.IsSettingMenuActive) return;
+        //if (GameManager.Instance.IsSettingMenuActive) return;
 
         Vector2 input = Vector2.zero;
         if (Input.GetKey(KeyCode.W))
